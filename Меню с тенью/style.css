@@ -1,0 +1,15 @@
+h1 {
+	background-color: #268B65;
+	color: #FFFFFF;
+	padding: 10px;
+}
+p {
+	background-color: #DEE5E0;
+	padding: 10px;
+	position: top;
+	margin-left: 30px
+	
+}
+.border {
+	margin-top: -35px;
+}
